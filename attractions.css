@@ -1,0 +1,33 @@
+body{
+    background-color: beige;
+}
+
+nav ul {
+    background-color: bisque;
+    border-style: double;
+    padding: 10px;
+}
+
+nav ul li {
+    display: inline;
+    color: white;
+    list-style-type: none;
+}
+
+#pyramids{
+    margin-bottom: 10px;
+    padding: 10px;
+    background-color: aquamarine;
+    border: 2px;
+    border-style: solid;
+    border-color: rgb(132, 184, 197);
+}
+
+#KhanAlkhalili{
+    padding-top: 30px;
+    padding: 10px;
+    background-color: aquamarine;
+    border: 2px;
+    border-style: solid;
+    border-color: rgb(132, 184, 197);
+}
